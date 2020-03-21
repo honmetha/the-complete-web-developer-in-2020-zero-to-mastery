@@ -1,7 +1,7 @@
 //Evaluate these:
 //#1
-[2] === [2] 
-{} === {} 
+[2] === [2] // false
+{} === {} // false
 
 //#2 what is the value of property a for each object.
 const object1 = { a: 5 }; 
