@@ -4,10 +4,10 @@
 {} === {} // false
 
 //#2 what is the value of property a for each object.
-const object1 = { a: 5 }; 
-const object2 = object1; 
-const object3 = object2; 
-const object4 = { a: 5}; 
+const object1 = { a: 5 }; // 4
+const object2 = object1;  // 4
+const object3 = object2;  // 4
+const object4 = { a: 5};  // 5
 object1.a = 4;
 
 
