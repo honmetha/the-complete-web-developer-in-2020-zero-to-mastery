@@ -12,5 +12,10 @@
 - Instantiation
 
 ### S13-158 ES10
+- flat
+- flatMap
+- trimStart / trimEnd
+- Object.entries()
+- Object.fromEntries()
 
 ### S13-160 Advanced Looping
