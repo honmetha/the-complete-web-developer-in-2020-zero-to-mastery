@@ -1,4 +1,5 @@
 # The Complete Web Developer in 2020: Zero to Mastery
+[Check out the course here!](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
 
 ### S13-146 Advanced Arrays
 - forEach
