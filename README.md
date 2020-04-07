@@ -15,7 +15,7 @@
 - flat
 - flatMap
 - trimStart / trimEnd
-- Object.entries()
-- Object.fromEntries()
+- Object.entries
+- Object.fromEntries
 
 ### S13-160 Advanced Looping

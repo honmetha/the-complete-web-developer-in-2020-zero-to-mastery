@@ -32,16 +32,31 @@ const array = [-1,0,3,100, 99, 2, 99] // should return 100
 const array2 = ['a', 3, 4, 2] // should return 4
 const array3 = [] // should return 0
 
-function biggestNumberInArray(arr) {
-
+const biggestNumberInArray = (arr) => {
+  let max = -Infinity;
+  for (let i = 0; i < arr.length; i++) {
+    max > arr[i] ? null : max = arr[i];
+  }
+  max === -Infinity ? max = 0 : null;
+  return max;
 }
 
-function biggestNumberInArray2(arr) {
-
+const biggestNumberInArray2 = (arr) => {
+  let max = -Infinity;
+  arr.forEach(item => {
+    max > item ? null : max = item;
+  });
+  max === -Infinity ? max = 0 : null;
+  return max;
 }
 
-function biggestNumberInArray3(arr) {
-
+const biggestNumberInArray3 = (arr) => {
+  let max = -Infinity;
+  for (item of arr) {
+    max > item ? null : max = item;
+  }
+  max === -Infinity ? max = 0 : null;
+  return max;
 }
 
 
@@ -53,6 +68,11 @@ amazonBasket = {
   floss: 100
 }
 
-function checkBasket(basket, lookingFor) {
-
+const checkBasket = (basket, lookingFor) => {
+  for (item in basket) {
+    if (item === lookingFor) {
+      return true;
+    } 
+  };
+  return false;
 }
