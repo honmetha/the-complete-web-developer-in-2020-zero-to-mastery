@@ -19,3 +19,5 @@
 - Object.fromEntries
 
 ### S13-160 Advanced Looping
+- for of (Iterating - arrays, strings)
+- for in (Enumerating - objects)
