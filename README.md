@@ -12,7 +12,13 @@
 - Context
 - Instantiation
 
-### S13-158 ES10
+### S13-155 ES8 (ES2017)
+- padStart / padEnd
+- Object.keys
+- Object.values
+- Object.entries
+
+### S13-158 ES10 (ES2019)
 - flat
 - flatMap
 - trimStart / trimEnd
