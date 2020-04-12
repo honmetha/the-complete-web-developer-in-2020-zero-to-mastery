@@ -5,7 +5,7 @@
 - Closures
 - Currying
 - Compose
-- Functional Purity
+- Functional Purity (Avoiding Side Effects & Deterministic)
 
 ### S13-146 Advanced Arrays
 - forEach
