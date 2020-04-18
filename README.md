@@ -18,6 +18,10 @@
 - Context
 - Instantiation
 
+### S13-154 ES7 (ES2016)
+- includes
+- Exponentiation operator (**)
+
 ### S13-155 ES8 (ES2017)
 - padStart / padEnd
 - Object.keys
