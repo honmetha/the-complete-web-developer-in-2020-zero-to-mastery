@@ -7,13 +7,13 @@
 - Compose
 - Functional Purity (Avoiding Side Effects & Deterministic)
 
-### S13-146 Advanced Arrays
+### S13-147 Advanced Arrays
 - forEach
 - map
 - filter
 - reduce
 
-### S13-151 Advanced Objects
+### S13-152 Advanced Objects
 - Reference Types
 - Context
 - Instantiation
@@ -22,19 +22,19 @@
 - includes
 - Exponentiation operator (**)
 
-### S13-155 ES8 (ES2017)
+### S13-156 ES8 (ES2017)
 - padStart / padEnd
 - Object.keys
 - Object.values
 - Object.entries
 
-### S13-158 ES10 (ES2019)
+### S13-159 ES10 (ES2019)
 - flat
 - flatMap
 - trimStart / trimEnd
 - Object.entries
 - Object.fromEntries
 
-### S13-160 Advanced Looping
+### S13-161 Advanced Looping
 - for of (Iterating - arrays, strings)
 - for in (Enumerating - objects)
