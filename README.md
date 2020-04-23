@@ -5,8 +5,8 @@
 - let / const
 - Destructuring
 - Object properties
-- Template strings
-- default arguments
+- Template strings (Backticks)
+- Default arguments
 - Symbol
 - Arrow functions
 
