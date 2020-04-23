@@ -1,6 +1,15 @@
 # The Complete Web Developer in 2020: Zero to Mastery
 [Check out the course here!](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
 
+### S13-143 ES5 and ES6
+- let / const
+- Destructuring
+- Object properties
+- Template strings
+- default arguments
+- Symbol
+- Arrow functions
+
 ### S13-145 Advanced Functions
 - Closures
 - Currying
