@@ -49,4 +49,4 @@
 - for in (Enumerating - objects)
 
 ### S19 200-220 React.js
-https://github.com/honmetha/robofriends
+Please checkout https://github.com/honmetha/robofriends
