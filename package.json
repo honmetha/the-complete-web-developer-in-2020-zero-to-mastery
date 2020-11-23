@@ -1,0 +1,11 @@
+{
+  "name": "the-complete-web-developer-in-2020-zero-to-mastery",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/honmetha/the-complete-web-developer-in-2020-zero-to-mastery.git",
+  "author": "Hon <dennis.mejen@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
