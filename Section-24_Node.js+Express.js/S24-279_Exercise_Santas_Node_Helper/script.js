@@ -41,8 +41,8 @@ const fs = require('fs');
 
 fs.readFile('./input.txt', (err, data) => {
   if (err) console.log('error');
-  // console.log('data.toString()', data.toString());
-  getSantaDirections(data.toString());
+  const directions = data.toString()
+  getSantaDirections(directions);
 });
 
 const getSantaDirections = (directions) => {
@@ -64,5 +64,5 @@ const getSantaDirections = (directions) => {
   console.timeEnd('funchallenge');
   console.log('firstEnteredBasementIndex', firstEnteredBasementIndex);
   console.log('floor', floor);
-  return firstEnteredBasementIndex;
+  return;
 };
