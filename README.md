@@ -53,6 +53,8 @@
 ### S19 200-220 React.js
 https://github.com/honmetha/robofriends
 
+### S20-238 Exercise Promises
+
 ### S24-270 Building a Server
 
 ### S24-271 Introduction to Express
