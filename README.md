@@ -55,6 +55,8 @@ https://github.com/honmetha/robofriends
 
 ### S20-238 Exercise Promises
 
+### S20-240 Exercise Async Await
+
 ### S24-270 Building a Server
 
 ### S24-271 Introduction to Express
