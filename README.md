@@ -54,6 +54,9 @@
 https://github.com/honmetha/robofriends
 
 ### S20-238 Exercise Promises
+- Promises
+- 3 States: Fulfilled, Rejected or Pending
+- Produce Resolve or Reject
 
 ### S20-240 Exercise Async Await
 
