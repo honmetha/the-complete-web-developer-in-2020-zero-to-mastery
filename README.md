@@ -50,14 +50,19 @@
 - for of (Iterating - arrays, strings)
 - for in (Enumerating - objects)
 
+### S13-168 ES11 (ES2020)
+- BigInt
+- Nullish Coalescing Operator ??
+- Optional Chaining Operator ?.
+
 ### S19 200-220 React.js
 https://github.com/honmetha/robofriends
 
-### S20-238 Exercise Promises
+### S20-238 Promises
 - 3 States: Fulfilled, Rejected or Pending
 - Produce Resolve or Reject
 
-### S20-240 Exercise Async Await
+### S20-240 Async Await
 - Convert promise to async await
 - Try Catch
 
